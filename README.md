@@ -10,4 +10,4 @@
 
 ### Prelabs
 1. [Prelab 2](//github.com/PGhzhang/Interactive-Lab-Hub/tree/master/PreLabs/PreLab2)
-2. [Prelab 3]
+2. [Prelab 3](//github.com/PGhzhang/Interactive-Lab-Hub/tree/master/PreLabs/PreLab3)
