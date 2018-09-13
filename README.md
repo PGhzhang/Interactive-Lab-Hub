@@ -1,5 +1,8 @@
 # Interactive-Lab-Hub
 
+Completed Labs for Hanyu Zhang
+
+
 ### Labs
 
 1. [Lab 1](//github.com/PGhzhang/idd-fa18-lab1)
