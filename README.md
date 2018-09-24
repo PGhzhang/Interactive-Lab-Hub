@@ -8,6 +8,7 @@ Completed Labs for Hanyu Zhang
 1. [Lab 1](//github.com/PGhzhang/idd-fa18-lab1)
 2. [Lab 2](//github.com/PGhzhang/idd-fa18-lab2)
 3. [Lab 3](//github.com/PGhzhang/IDD-Fa18-Lab3)
+4. [Lab 4](//github.com/PGhzhang/IDD-Fa18-Lab4)
 
 
 
